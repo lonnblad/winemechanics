@@ -115,8 +115,5 @@ sections:
     is_primary: false
   component: cta.html
 layout: home
-menu:
-  main:
-    weight: 1
 
 ---
