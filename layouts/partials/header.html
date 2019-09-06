@@ -1,6 +1,7 @@
 <!-- Header -->
 <header id="header" {{ if eq .Params.layout "home" }}class="alt"{{ end }}>
     <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
+    {{ if gt (len .Site.Data.menu.actions) "0" }}
     <nav id="nav">
         <ul>
             <li class="special">
@@ -18,4 +19,5 @@
             </li>
         </ul>
     </nav>
+    {{ end }}
 </header>

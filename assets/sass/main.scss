@@ -402,6 +402,24 @@ $palette: (
 		text-align: right;
 	}
 
+/* Inner */
+
+	div.inner {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+
+		ul {
+			list-style: none;
+			padding: 0;
+
+			li{
+				padding: 0;
+			}
+		}
+	}
+
 /* Row */
 
 	.row {
@@ -798,6 +816,16 @@ $palette: (
 		margin: 0 0 _size(element-margin) 0;
 	}
 
+/* Title */
+	div.title {
+		padding-bottom: 2em;
+
+		img {
+			height: calc(9em + 2px);
+			width: calc(9em + 2px);
+		}
+	}
+
 /* Actions */
 
 	ul.actions {
@@ -851,7 +879,7 @@ $palette: (
 			}
 
 			&.stacked {
-				width: 100%;
+				width: fit-content;
 			}
 		}
 
@@ -859,7 +887,6 @@ $palette: (
 			&:not(.fixed) {
 				@include vendor('flex-direction', 'column');
 				margin-left: 0;
-				width: 100% !important;
 
 				li {
 					@include vendor('flex-grow', '1');
@@ -1013,15 +1040,15 @@ $palette: (
 		border: 0;
 		box-shadow: inset 0 0 0 2px _palette(border);
 		color: _palette(fg-bold);
+		background-color: _palette(accent1, border);
 		cursor: pointer;
 		display: inline-block;
-		font-size: 0.8em;
+		font-size: 0.9em;
 		font-weight: _font(weight-bold);
-		height: 3.125em;
 		letter-spacing: _size(letter-spacing-alt);
-		line-height: 3.125em;
+		line-height: 4.125em;
 		max-width: 30em;
-		padding: 0 2.75em;
+		padding: 0 3.75em;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
@@ -1030,7 +1057,7 @@ $palette: (
 		text-overflow: ellipsis;
 
 		&:hover {
-			background-color: _palette(border-bg);
+			background-color: _palette(border2-bg);
 		}
 
 		&:active {
@@ -1784,7 +1811,7 @@ $palette: (
 		}
 
 		@include breakpoint('<=small') {
-			@include padding(7em, 3em);
+			@include padding(4em, 3em);
 			height: auto;
 			min-height: 0;
 
@@ -1876,7 +1903,7 @@ $palette: (
 	#main {
 		> header {
 			@include padding(12em, 0);
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../../images/banner.jpg")'));
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../../images/varfabrik.jpg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
@@ -2001,7 +2028,7 @@ $palette: (
 
 	body.landing {
 		#page-wrapper {
-			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../../images/banner.jpg")'));
+			@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../../images/varfabrik.jpg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
@@ -2022,7 +2049,7 @@ $palette: (
 
 			#banner,
 			.wrapper.style4 {
-				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../../images/banner.jpg")'));
+				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("../../images/varfabrik.jpg")'));
 				background-position: center center;
 				background-repeat: no-repeat;
 				background-size: cover;
