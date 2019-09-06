@@ -23,24 +23,56 @@ fields:
     label: Icon URL
   config:
     labelField: title
-- type: text
-  name: copyright
-  label: Copyright Text
-  description: The copyright text displayed at the bottom of the page footer
-- type: field_group_list
-  name: links
-  label: Links
-  description: A list of links displayed in the footer.
-  fields:
-  - type: text
-    name: text
-    label: Link text
-  - type: text
-    name: url
-    label: URL
-  - type: boolean
-    name: new_window
-    label: Open in new window
-    default: true
+  hidden: true
+- name: left_section
+  type: textarea
+  default: ''
   config:
-    labelField: text
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Left Section
+- name: middle_section
+  type: field_group
+  config: {}
+  fields:
+  - name: social_media_icons
+    type: field_group_list
+    fields:
+    - name: icon_title
+      type: text
+      config:
+        required: false
+      label: Icon Title
+    - name: icon
+      type: text
+      config:
+        required: false
+      label: Icon
+    - name: icon_url
+      type: text
+      config:
+        required: false
+      label: Icon URL
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Social Media Icons
+  - name: copyright_text
+    type: text
+    config:
+      required: false
+    label: Copyright Text
+    default: "&copy; Wine Mechanics"
+  label: Middle Section
+- name: right_section
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Right Section
