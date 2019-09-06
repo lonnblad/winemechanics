@@ -7,7 +7,7 @@ banner:
 
     Phone. 031-790 43 00
 
-    Öppettider
+    #### Öppettider
 
     Mon-Tues. 11.30-14.00
 
