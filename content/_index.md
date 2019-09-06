@@ -41,16 +41,16 @@ banner:
 sections: []
 layout: home
 actions:
-- label: Our Wines
-  url: https://www.systembolaget.se/sok-dryck/?searchquery=wine%20mechanics
-- label: Dinner Menu
-  url: http://winemechanics.se/assets/pdf/WM_Wine_Manual.pdf
 - label: Book Table
   url: https://app.waiteraid.com/reservation/?hash=b406b0f6880a163222eb3bfe49db765b&version=new
   is_scrolly: false
   is_primary: false
 - label: Lunch Menu
   url: http://winemechanics.se/assets/pdf/WM_Lunchmeny.pdf
+- label: Dinner Menu
+  url: http://winemechanics.se/assets/pdf/WM_Wine_Manual.pdf
+- label: Our Wines
+  url: https://www.systembolaget.se/sok-dryck/?searchquery=wine%20mechanics
 background: "/images/varfabrik.jpg"
 icon: "/images/wm_icon.svg"
 draft: true
