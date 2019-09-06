@@ -2,6 +2,15 @@
 label: Footer Configuration
 hide_body: true
 fields:
+- name: left_section
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Left Section
 - type: field_group_list
   name: social_icons
   label: Social Mediaa Icons
@@ -23,50 +32,12 @@ fields:
     label: Icon URL
   config:
     labelField: title
-  hidden: true
-- name: left_section
-  type: textarea
-  default: ''
+  hidden: false
+- name: copyright_text
+  type: text
   config:
     required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Left Section
-- name: middle_section
-  type: field_group
-  config: {}
-  fields:
-  - name: social_media_icons
-    type: field_group_list
-    fields:
-    - name: icon_title
-      type: text
-      config:
-        required: false
-      label: Icon Title
-    - name: icon
-      type: text
-      config:
-        required: false
-      label: Icon
-    - name: icon_url
-      type: text
-      config:
-        required: false
-      label: Icon URL
-    config:
-      min: 
-      max: 
-      labelField: 
-    label: Social Media Icons
-  - name: copyright_text
-    type: text
-    config:
-      required: false
-    label: Copyright Text
-    default: "&copy; Wine Mechanics"
-  label: Middle Section
+  label: Copyright Text
 - name: right_section
   type: textarea
   default: ''
