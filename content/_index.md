@@ -41,11 +41,14 @@ banner:
 sections: []
 layout: home
 actions:
+- label: Lunch Menu
+  url: http://winemechanics.se/assets/pdf/WM_Lunchmeny.pdf
 - label: Book table
   url: https://app.waiteraid.com/reservation/?hash=b406b0f6880a163222eb3bfe49db765b&version=new
   is_scrolly: false
   is_primary: false
 background: "/images/varfabrik.jpg"
 icon: "/images/wm_icon.svg"
+draft: true
 
 ---
