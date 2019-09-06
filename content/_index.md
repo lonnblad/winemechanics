@@ -53,6 +53,19 @@ actions:
   url: https://www.systembolaget.se/sok-dryck/?searchquery=wine%20mechanics
 background: "/images/varfabrik.jpg"
 icon: "/images/wm_icon.svg"
+text_area: |-
+  ### Find us
+
+  * Lilla Waterloogatan 15
+  * 415 02 Göteborg
+  * Phone. 031-790 43 00
+
+  ### Opening Hours
+
+  * Mon-Tues. 11.30-14.00
+  * Weds-Thurs. 11.30-14.00, 17.00-22.00
+  * Fri. 11.30-14.00, 16.00-23.00
+  * Sat. 12.00-16.00, 17.00-23.00
 draft: true
 
 ---
