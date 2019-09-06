@@ -2,15 +2,6 @@
 label: Footer Configuration
 hide_body: true
 fields:
-- name: left_section
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Left Section
 - type: field_group_list
   name: social_icons
   label: Social Mediaa Icons
@@ -38,12 +29,3 @@ fields:
   config:
     required: false
   label: Copyright Text
-- name: right_section
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Right Section
