@@ -15,10 +15,11 @@ fields:
     config: {}
     template: action
     label: Action
+    hidden: false
   config:
     min: 
     max: 
-    labelField: 
+    labelField: label
   label: Actions
 - name: background
   type: file
