@@ -1710,12 +1710,13 @@ $palette: (
 		@include vendor('display', 'flex');
 		@include vendor('flex-direction', 'column');
 		@include vendor('justify-content', 'center');
+		@include padding(4em, 3em);
 		cursor: default;
-		height: 100vh;
-		min-height: 35em;
+		min-height: 100vh;
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+		
 
 		h2 {
 			@include vendor('transform', 'scale(1)');
