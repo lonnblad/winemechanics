@@ -818,11 +818,15 @@ $palette: (
 
 /* Title */
 	div.title {
-		padding-bottom: 2em;
+		margin-bottom: 2em;
 
 		img {
-			height: calc(9em + 2px);
-			width: calc(9em + 2px);
+			display: block;
+			max-width:calc(18em + 2px);
+			max-height:calc(18em + 2px);
+			width: auto;
+			height: auto;
+			margin-bottom: -7em;
 		}
 	}
 
