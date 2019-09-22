@@ -412,10 +412,10 @@ $palette: (
 
 		.shadow {
 			text-shadow:
-				-0.1px 0.1px 1.2px darken(_palette(bg), 3),
-				-0.1px -0.1px 1.2px darken(_palette(bg), 3),
-				0.1px -0.1px 1.2px darken(_palette(bg), 3),
-				0.1px 0.1px 1.2px darken(_palette(bg), 3);
+				-0.2px 0.2px 1.2px darken(transparentize(_palette(bg), 0.7), 3),
+				-0.2px -0.2px 1.2px darken(transparentize(_palette(bg), 0.7), 3),
+				0.2px -0.2px 1.2px darken(transparentize(_palette(bg), 0.7), 3),
+				0.2px 0.2px 1.2px darken(transparentize(_palette(bg), 0.7), 3);
 		}
 
 		ul {
