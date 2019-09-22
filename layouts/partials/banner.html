@@ -17,8 +17,10 @@
         </ul>
         {{ end }}
 
-        {{ if .Params.text_area}}
-            {{ partial "markdownify-block" .Params.text_area }}
-        {{ end }}
+        <div class="shadow">
+            {{ if .Params.text_area}}
+                {{ partial "markdownify-block" .Params.text_area }}
+            {{ end }}
+        </div>
     </div>
 </section>
