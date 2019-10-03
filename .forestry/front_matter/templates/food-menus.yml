@@ -1,5 +1,5 @@
 ---
-label: food-menus
+label: Food Menus
 hide_body: true
 fields:
 - name: lunch_menu
