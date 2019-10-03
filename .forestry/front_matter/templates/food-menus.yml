@@ -1,8 +1,14 @@
 ---
 label: food-menus
-hide_body: false
+hide_body: true
 fields:
 - name: lunch_menu
-  type: image_gallery
-  config: {}
+  type: file
+  config:
+    maxSize: 250
   label: Lunch Menu
+- name: dinner_menu
+  type: file
+  config:
+    maxSize: 250
+  label: Dinner Menu

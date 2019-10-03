@@ -12,7 +12,6 @@ sections:
 - type: document
   path: content/_food-menus.md
   label: Food Menus
-  match: "**/*"
 - type: document
   path: data/footer.yml
   label: Footer
