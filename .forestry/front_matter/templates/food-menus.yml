@@ -1,4 +1,8 @@
 ---
 label: food-menus
 hide_body: false
-fields: []
+fields:
+- name: lunch_menu
+  type: image_gallery
+  config: {}
+  label: Lunch Menu
