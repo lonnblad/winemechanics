@@ -7,9 +7,9 @@ actions:
   is_scrolly: false
   is_primary: false
 - label: Lunch Menu
-  url: http://winemechanics.se/assets/pdf/WM_Lunchmeny.pdf
+  url: https://winemechanics-2080c.netlify.com/images/WM_Lunchmeny.pdf
 - label: Dinner Menu
-  url: http://winemechanics.se/assets/pdf/WM_Wine_Manual.pdf
+  url: https://winemechanics-2080c.netlify.com/images/WM_Wine_Manual.pdf
 - label: Our Wines
   url: https://www.systembolaget.se/sok-dryck/?searchquery=wine%20mechanics
 - label: Wine Events
