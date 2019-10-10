@@ -2,6 +2,8 @@
 title: Home
 layout: home
 actions:
+- label: Shop
+  url: http://wine-mechanics.quickbutik.com/
 - label: Our Wines
   url: https://www.systembolaget.se/sok-dryck/?searchquery=wine%20mechanics
 - label: Book a Table
