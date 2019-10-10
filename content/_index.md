@@ -2,16 +2,16 @@
 title: Home
 layout: home
 actions:
+- label: Our Wines
+  url: https://www.systembolaget.se/sok-dryck/?searchquery=wine%20mechanics
 - label: Book a Table
   url: https://app.waiteraid.com/reservation/?hash=b406b0f6880a163222eb3bfe49db765b&version=new
   is_scrolly: false
   is_primary: false
-- label: Lunch Menu
-  url: https://winemechanics-2080c.netlify.com/images/WM_Lunchmeny.pdf
 - label: Dinner Menu
   url: https://winemechanics-2080c.netlify.com/images/WM_Wine_Manual.pdf
-- label: Our Wines
-  url: https://www.systembolaget.se/sok-dryck/?searchquery=wine%20mechanics
+- label: Lunch Menu
+  url: https://winemechanics-2080c.netlify.com/images/WM_Lunchmeny.pdf
 - label: Wine Events
   url: https://www.tickster.com/sv/events/by/m79yc5rk5x0cl70/wine-mechanics
   is_scrolly: false
