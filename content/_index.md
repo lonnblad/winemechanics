@@ -16,7 +16,7 @@ actions:
   url: https://www.tickster.com/sv/events/by/m79yc5rk5x0cl70/wine-mechanics
   is_scrolly: false
   is_primary: false
-- label: Shop
+- label: Shop / Join The Nut Club
   url: http://wine-mechanics.quickbutik.com/
 background: "/images/varfabrik.jpg"
 icon: "/images/wm_icon.svg"
