@@ -10,7 +10,7 @@ actions:
   is_primary: false
 - label: Kvällsmeny
   url: http://winemechanics.se/images/WM_Wine_Manual.pdf
-- label: Lunch Menu
+- label: Lunchmeny
   url: http://winemechanics.se/images/WM_Lunchmeny.pdf
 - label: Book Tastings & Events
   url: https://www.tickster.com/sv/events/by/m79yc5rk5x0cl70/wine-mechanics
