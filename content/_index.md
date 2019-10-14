@@ -2,9 +2,7 @@
 title: Home
 layout: home
 actions:
-- url: https://timetomeet.se/online/wine_mechanics_159/?persons=5&date=2019-10-14
-  label: Konferens & Möten
-- label: Our Wines
+- label: Köp våra viner
   url: https://www.systembolaget.se/sok-dryck/?searchquery=wine%20mechanics
 - label: Book a Table
   url: https://app.waiteraid.com/reservation/?hash=b406b0f6880a163222eb3bfe49db765b&version=new
@@ -18,6 +16,8 @@ actions:
   url: https://www.tickster.com/sv/events/by/m79yc5rk5x0cl70/wine-mechanics
   is_scrolly: false
   is_primary: false
+- url: https://timetomeet.se/online/wine_mechanics_159/?persons=5&date=2019-10-14
+  label: Konferens & Möten
 - label: Shop / Join The Nut Club
   url: http://wine-mechanics.quickbutik.com/
 background: "/images/varfabrik.jpg"
