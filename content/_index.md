@@ -18,7 +18,7 @@ actions:
   is_primary: false
 - url: https://timetomeet.se/online/wine_mechanics_159/?persons=5&date=2019-10-14
   label: Konferens & Möten
-- label: Shop / Join The Nut Club
+- label: Butik / Join The Nut Club
   url: http://wine-mechanics.quickbutik.com/
 background: "/images/varfabrik.jpg"
 icon: "/images/wm_icon.svg"
