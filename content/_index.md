@@ -8,7 +8,7 @@ actions:
   url: https://app.waiteraid.com/reservation/?hash=b406b0f6880a163222eb3bfe49db765b&version=new
   is_scrolly: false
   is_primary: false
-- label: Dinner Menu
+- label: Kvällsmeny
   url: http://winemechanics.se/images/WM_Wine_Manual.pdf
 - label: Lunch Menu
   url: http://winemechanics.se/images/WM_Lunchmeny.pdf
