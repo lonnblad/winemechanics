@@ -23,26 +23,26 @@ actions:
 background: "/images/varfabrik.jpg"
 icon: "/images/wm_icon.svg"
 text_area: |-
-  ### Find us
+  ### Hitta till oss
 
   * Lilla Waterloogatan 15
   * 415 02 Göteborg
-  * Phone. 031-790 43 00
+  * Telefon. 031-790 43 00
 
-  ### Opening Hours
+  ### Öppettider
 
   Lunch
 
-  * Mon – Fri. 11.30 – 14.00
+  * Mån – Fre. 11.30 – 14.00
 
   Brunch
 
-  * Sat. 12.00 – 16.00
+  * Lör. 12.00 – 16.00
 
-  Dinner
+  Middag
 
-  * Weds-Thurs. 17.00 – 22.00
-  * Fri. 16.00 – 23.00
-  * Sat. 17.00 – 23.00
+  * Ons – Tors. 17.00 – 22.00
+  * Fre. 16.00 – 23.00
+  * Lör. 17.00 – 23.00
 
 ---
