@@ -31,16 +31,16 @@ text_area: |-
 
   Lunch
 
-  * Mon - Fri. 11.30 - 14.00
+  * Mon – Fri. 11.30 – 14.00
 
   Brunch
 
-  * Sat. 12.00 - 16.00
+  * Sat. 12.00 – 16.00
 
   Dinner
 
-  * Weds-Thurs. 17.00-22.00
-  * Fri. 16.00-23.00
-  * Sat. 17.00-23.00
+  * Weds-Thurs. 17.00 – 22.00
+  * Fri. 16.00 – 23.00
+  * Sat. 17.00 – 23.00
 
 ---
