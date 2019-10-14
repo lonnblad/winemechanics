@@ -2,6 +2,8 @@
 title: Home
 layout: home
 actions:
+- url: https://timetomeet.se/online/wine_mechanics_159/?persons=5&date=2019-10-14
+  label: Konferens & Möten
 - label: Our Wines
   url: https://www.systembolaget.se/sok-dryck/?searchquery=wine%20mechanics
 - label: Book a Table
