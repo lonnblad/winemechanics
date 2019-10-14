@@ -4,7 +4,7 @@ layout: home
 actions:
 - label: Köp våra viner
   url: https://www.systembolaget.se/sok-dryck/?searchquery=wine%20mechanics
-- label: Book a Table
+- label: Boka bord
   url: https://app.waiteraid.com/reservation/?hash=b406b0f6880a163222eb3bfe49db765b&version=new
   is_scrolly: false
   is_primary: false
