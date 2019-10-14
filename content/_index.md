@@ -12,7 +12,7 @@ actions:
   url: http://winemechanics.se/images/WM_Wine_Manual.pdf
 - label: Lunchmeny
   url: http://winemechanics.se/images/WM_Lunchmeny.pdf
-- label: Book Tastings & Events
+- label: Vinprovningar & Event
   url: https://www.tickster.com/sv/events/by/m79yc5rk5x0cl70/wine-mechanics
   is_scrolly: false
   is_primary: false
