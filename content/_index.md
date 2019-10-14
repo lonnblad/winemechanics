@@ -2,6 +2,8 @@
 title: Home
 layout: home
 actions:
+- url: http://winemechanics.se/images/WM_Brunchmeny_Pizza-Mozza.pdf
+  label: Brunchmeny
 - label: Köp våra viner
   url: https://www.systembolaget.se/sok-dryck/?searchquery=wine%20mechanics
 - label: Boka bord
