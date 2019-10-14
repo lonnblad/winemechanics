@@ -9,9 +9,9 @@ actions:
   is_scrolly: false
   is_primary: false
 - label: Dinner Menu
-  url: https://winemechanics-2080c.netlify.com/images/WM_Wine_Manual.pdf
+  url: http://winemechanics.se/images/WM_Wine_Manual.pdf
 - label: Lunch Menu
-  url: https://winemechanics-2080c.netlify.com/images/WM_Lunchmeny.pdf
+  url: http://winemechanics.se/images/WM_Lunchmeny.pdf
 - label: Book Tastings & Events
   url: https://www.tickster.com/sv/events/by/m79yc5rk5x0cl70/wine-mechanics
   is_scrolly: false
