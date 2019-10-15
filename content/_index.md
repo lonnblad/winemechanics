@@ -27,7 +27,7 @@ icon: "/images/wm_icon.svg"
 text_area: |-
   ### Hitta till oss
 
-  * Lilla Waterloogatan 15
+  * [Lilla Waterloogatan 15](https://www.google.com/maps/place/Wine+Mechanics+AB/@57.7288467,11.9987502,17z/data=!3m1!4b1!4m5!3m4!1s0x464ff48a27153f99:0xbf952bfe9f7aec41!8m2!3d57.7288467!4d12.0009442)
   * 415 02 Göteborg
   * Telefon. 031-790 43 00
 
