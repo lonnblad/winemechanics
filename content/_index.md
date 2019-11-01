@@ -18,7 +18,7 @@ actions:
   url: https://www.tickster.com/sv/events/by/m79yc5rk5x0cl70/wine-mechanics
   is_scrolly: false
   is_primary: false
-- url: https://timetomeet.se/online/wine_mechanics_159/?persons=5&date=2019-10-14
+- url: https://timetomeet.se/online/wine_mechanics_159/
   label: Konferens & Möten
 - label: Butik / Join The Nut Club
   url: http://wine-mechanics.quickbutik.com/
