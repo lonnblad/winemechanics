@@ -43,7 +43,7 @@ text_area: |-
 
   Middag
 
-  * Ons – Tors. 17.00 – 22.00
+  * Tis – Tors. 17.00 – 22.00
   * Fre. 16.00 – 23.00
   * Lör. 17.00 – 23.00
 
