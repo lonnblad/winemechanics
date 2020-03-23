@@ -24,27 +24,9 @@ actions:
   url: http://wine-mechanics.quickbutik.com/
 background: "/images/varfabrik.jpg"
 icon: "/images/wm_icon.svg"
-text_area: |-
-  ### Hitta till oss
-
-  * [Lilla Waterloogatan 15](https://www.google.com/maps/place/Wine+Mechanics+AB/@57.7288467,11.9987502,17z/data=!3m1!4b1!4m5!3m4!1s0x464ff48a27153f99:0xbf952bfe9f7aec41!8m2!3d57.7288467!4d12.0009442)
-  * 415 02 Göteborg
-  * Telefon. 031-790 43 00
-
-  ### Öppettider
-
-  Lunch
-
-  * Mån – Fre. 11.30 – 14.00
-
-  Brunch
-
-  * Lör. 12.00 – 15.00
-
-  Middag
-
-  * Ons – Tors. 17.00 – 22.00
-  * Fre. 16.00 – 23.00
-  * Lör. 17.00 – 23.00
+text_area: "### Hitta till oss\n\n* [Lilla Waterloogatan 15](https://www.google.com/maps/place/Wine+Mechanics+AB/@57.7288467,11.9987502,17z/data=!3m1!4b1!4m5!3m4!1s0x464ff48a27153f99:0xbf952bfe9f7aec41!8m2!3d57.7288467!4d12.0009442)\n*
+  415 02 Göteborg\n* Telefon. 031-790 43 00\n\n### Öppettider\n\nLunch\n\n* Ons –
+  Fre. 11.30 – 14.00\n\nBrunch\n\n* \n\nMiddag\n\n* Ons – Fre. 17.00 – 21.00\n* Lör.
+  14.00 – 21.00\n* "
 
 ---
