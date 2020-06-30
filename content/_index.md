@@ -26,7 +26,7 @@ background: "/images/varfabrik.jpg"
 icon: "/images/wm_icon.svg"
 text_area: "### Hitta till oss\n\n* [Lilla Waterloogatan 15](https://www.google.com/maps/place/Wine+Mechanics+AB/@57.7288467,11.9987502,17z/data=!3m1!4b1!4m5!3m4!1s0x464ff48a27153f99:0xbf952bfe9f7aec41!8m2!3d57.7288467!4d12.0009442)\n*
   415 02 Göteborg\n* Telefon. 031-790 43 00\n\n### Öppettider\n\nLunch\n\n* Stängt
-  tillsvidare\n\nBrunch\n\n* Stängt tillsvidare\n\nMiddag\n\n* Fre. 16.00 – 21.00\n*
-  Lör. 13.00 – 21.00\n* "
+  tillsvidare\n\nBrunch\n\n* Stängt tillsvidare\n\nMiddag\n\n* Torsdag-Lördag 16.00-22.00
+  \n* \n* "
 
 ---
